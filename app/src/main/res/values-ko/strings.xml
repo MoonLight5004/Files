@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">파일</string>
+    <string name="error"><b>오류:</b> 앱이 설치되지 않은것 같습니다.</string>
+</resources>
