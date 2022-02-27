@@ -20,7 +20,7 @@
 
 이 앱은 DocumentsUI을 열어주는 기능을 담당합니다.<br/>
 
-(**DocumentsUI 기능을 하는것이 아님! 단순히 DocumentsUI 바로가기 역할만함!!**)<br/><br/>
+(**이 앱은 DocumentsUI가 아님! 단순히 DocumentsUI 바로가기 역할만함!!**)<br/><br/>
 
 ![2](https://user-images.githubusercontent.com/72679255/155884371-e5c1cce7-5af0-4741-9518-8a2722f0bdf1.png)
 
