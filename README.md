@@ -20,13 +20,13 @@
 
 이 앱은 DocumentsUI을 열어주는 기능을 담당합니다.<br/>
 
-(**DocumentsUI 기능을 하는것이 아님! 단순히 DocumentsUI를 열어주는 기능을 함!!**)
+(**DocumentsUI 기능을 하는것이 아님! 단순히 DocumentsUI 바로가기 역할만함!!**)
 
 ![2](https://user-images.githubusercontent.com/72679255/155884371-e5c1cce7-5af0-4741-9518-8a2722f0bdf1.png)
 
 DocumentsUI 에서는 안드로이드11 이후 기기에서 /Android/data 폴더 접근이 가능합니다.
 
-※ 이 앱은 안드로이드 8.0+ 기기에서만 설치 가능합니다.<br/><br/>
+※ 이 앱은 어떠한 추가권한을 요구하지 않으며, 안드로이드 8.0+ 기기에서 설치 가능합니다.<br/><br/>
 
 
 
