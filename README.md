@@ -6,6 +6,8 @@ The open source version of **Files by Marc**.
 
 Just serves to open the SAF(Storage Access Framework) on your Android device.
 
+※ Minimum Android version: Android 8.0
+
 ### License
 
 GNU General Public License v3.0
