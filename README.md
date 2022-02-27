@@ -4,7 +4,7 @@
 
 # Files
 
-**Files by Marc** 앱의 오픈소스 버전입니다.
+**Files by Marc** 앱의 오픈소스 버전입니다. (동일한 기능을 합니다.)
 
 ![1](https://user-images.githubusercontent.com/72679255/155884369-8db72f5d-def7-4545-b509-203faae35191.png)
 
